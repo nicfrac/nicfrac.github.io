@@ -1,5 +1,5 @@
 body {
-background: url("images/1200x781-cookie-image.jpg");
+background: url(images/1200x781-cookie-image.jpg);
 background-size: cover;
 text-align: center;
 color: #FFFFFF;
@@ -18,10 +18,10 @@ a {
 	text-decoration: none;
 
 nav a
-	margin-right: 40px;
+	margin-right: 80px;
 	color: #71BC87;
-	font-style: bold;
-	font-size:12px;
+	font-weight: 100;
+	font-size:14px;
 }
 
 hr {
