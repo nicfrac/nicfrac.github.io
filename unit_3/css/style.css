@@ -1,8 +1,10 @@
 body {
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 16px;
-	color: #888888;
-	line-height: 1.5;
+background: "images/1200x781-cookie-image.jpg";
+background-size: cover;
+text-align: center;
+color: #FFFFFF;
+font-size: 22px;
+font-family: Helvetica, Arial, sans-serif;
 }
 
 header {
@@ -16,20 +18,9 @@ a {
 	text-decoration: none;
 
 nav a
-	margin-right: 40px;
+	margin-right: 20px;
 	color: #71BC87;
-	font-weight: 400px;
-	float: right;
-}
-
-section {
-background: url("images/1200x781-cookie-image.jpg");
-background-size: cover;
-text-align: center;
-color: #FFFFFF;
-font-size: 22px;
-font-family: Helvetica, Arial, sans-serif;
-
+	font-style: bold;
 }
 
 hr {
