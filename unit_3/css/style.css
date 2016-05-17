@@ -18,9 +18,10 @@ a {
 	text-decoration: none;
 
 nav a
-	margin-right: 20px;
+	margin-right: 40px;
 	color: #71BC87;
 	font-style: bold;
+	font-size:12px;
 }
 
 hr {
