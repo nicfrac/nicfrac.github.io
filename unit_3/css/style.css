@@ -1,7 +1,7 @@
 body {
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	color: #666666;
+	font-size: 16px;
+	color: #888888;
 	line-height: 1.5;
 }
 
@@ -16,7 +16,21 @@ a {
 	text-decoration: none;
 
 nav a
-	float: right;
+	margin-right: 40px;
 	color: #71BC87;
+	font-weight: 400px;
+	float: right;
 }
 
+section {
+background: url("images/1200x781-cookie-image.jpg");
+background-size: cover;
+color: #FFFFFF;
+font-size: 24px;
+
+}
+
+hr {
+	width: 100px;
+
+}
