@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: url("images/1200x781-cookie-image.jpg");
+  background: url("../images/1200x781-cookie-image.jpg");
   color: #fff;
   font-family: Helvetica;
 }
@@ -8,19 +8,15 @@ body {
 header {
 	background-color: #FAE8D2
 	padding:40px;
+	text-align: center;
+	font-size:14px;
+	margin-right: 40px;
 
 }
 
 a {
 	color: inherit;
 	text-decoration: none;
-
-nav a
-	margin-right: 80px;
-	color: #71BC87;
-	font-weight: 100;
-	font-size:14px;
-}
 
 hr {
 	width: 100px;
