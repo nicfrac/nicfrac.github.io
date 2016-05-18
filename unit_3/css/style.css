@@ -24,10 +24,10 @@ hr {
 	width: 10px;
 }
 
-#slogan {
+.slogan {
 	font-weight: bold;
 	color: #fff;
-	font-size: 40px;
+	font-size: 80px;
 	padding-top: 10px;
 
 }
