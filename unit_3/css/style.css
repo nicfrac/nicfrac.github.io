@@ -4,6 +4,7 @@ body {
   color: #fff;
   font-family: Helvetica;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 header {
