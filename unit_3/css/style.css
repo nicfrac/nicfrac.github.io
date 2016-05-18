@@ -23,3 +23,10 @@ a {
 hr {
 	width: 10px;
 }
+
+#slogan {
+	font-weight: bold;
+	color: #fff;
+	font-size: 20px;
+
+}
