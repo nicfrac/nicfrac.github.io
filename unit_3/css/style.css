@@ -24,6 +24,10 @@ a {
 	text-decoration: none;
 }
 
+.header {
+	color: #ff3300;
+}
+
 nav a {
 	color: #cccccc;
 	font-style: italic;
