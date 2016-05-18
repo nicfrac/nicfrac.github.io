@@ -24,10 +24,23 @@ hr {
 	width: 10px;
 }
 
+h1{
+	font-weight: bold;
+	font-size: 25px;
+	padding-top: 40px;
+	text-transform: uppercase;
+}
+
 .slogan {
 	font-weight: bold;
 	color: #fff;
 	font-size: 80px;
 	padding-top: 10px;
+}
+
+.main { 
+	width: 400px; 
+	border: 2px solid #fff;
+	padding: 10px;
 
 }
