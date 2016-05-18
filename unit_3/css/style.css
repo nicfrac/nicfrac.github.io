@@ -17,10 +17,15 @@ header {
 }
 
 a {
-	color: inherit;
+	color: #4d4d4d;
 	text-decoration: none;
+	font-size: 12px;
+	margin-right: 40px;
 
 hr {
 	width: 100px;
+}
 
+main {
+text-align: left;
 }
