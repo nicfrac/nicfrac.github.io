@@ -13,8 +13,8 @@ body {
 
 #cookie{
 	background-size: cover;
-	height:781px;
-	padding:20px 0;
+	width:1200px;
+	height:auto;
 }
 
 a {
@@ -38,8 +38,9 @@ h1{
 	padding-top: 2em;
 }
 
-#footer{
+#close{
 	background-color: #fbe8cc;
 	background-size: cover;
 	height:8em;
+	padding: 2em;
 }
