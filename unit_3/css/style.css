@@ -12,8 +12,9 @@ body {
 }
 
 #cookie{
-	width:800px;
-	height:auto;
+	background-size:cover;
+	height:781px;
+	padding:20px;
 
 }
 
