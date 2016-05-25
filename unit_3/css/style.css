@@ -39,6 +39,14 @@ h1{
 	padding-bottom: 1em;
 }
 
+.navlinks{
+	font-family: 'Lato', Helvetica, sans-serif;
+}
+
+.sansfont{
+	font-family: 'Lato', Helvetica, sans-serif;
+}
+
 #close{
 	background-color: #fbe8cc;
 	background-size: cover;
