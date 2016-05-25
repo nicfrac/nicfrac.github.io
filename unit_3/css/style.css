@@ -3,6 +3,7 @@ body {
   color: #4d4d4d;
   font-family: Helvetica;
   font-size:16px;
+  position: relative;
 }
 
 #topbar {
@@ -43,8 +44,4 @@ h1{
 	background-size: cover;
 	height:8em;
 	padding: 2em;
-}
-
-#center{
-	margin: 2em;
 }
