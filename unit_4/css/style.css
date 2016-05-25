@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+  text-align: center;
+  color: #4d4d4d;
+  font-size:16px;
+  position: relative;
+  line-height:1.5em;
+}
+
+h1,
+h2,
+h3,
+h4{
+	font-family: 'Satisfy', cursive;
+}
+
+a {
+	color: #4d4d4d;
+	text-decoration: none;
+	font-size: 1em;
+	margin-right: 5em;
+}
+
+hr{
+	border:none;
+	height:6px;
+	background-color: #4d4d4d;
+	width:2em;
+	margin:3em auto;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 1.5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.navlinks{
+	font-family: 'Lato', Helvetica, sans-serif;
+}
+
+.sansfont{
+	font-family: 'Lato', Helvetica, sans-serif;
+}
+
+#close{
+	background-color: #fbe8cc;
+	background-size: cover;
+	height:8em;
+	padding: 2em;
+}
+
+#bottom{
+	padding-bottom:2em;
+}
+
+#topbar {
+	background-color: #fbe8cc;
+	background-size: cover;
+	height:12em;
+}
+
+#cookie{
+	background-size: cover;
+	width:1200px;
+	height:auto;
+}
