@@ -1,40 +1,41 @@
 body {
   text-align: center;
-  background: url("../images/1200x781-cookie-image.jpg");
   color: #fff;
   font-family: Helvetica;
   background-size: cover;
   background-repeat: no-repeat;
+  font-size:16px;
 }
 
-header {
-	background-color: #FAE8D2
-	padding:40px;
-	text-align: center;
-	font-size:14px;
+#topbar {
+	background-color: #B9FACC;
 }
 
 a {
 	color: #4d4d4d;
 	text-decoration: none;
-	font-size: 16px;
-	margin-right: 60px;
+	font-size: 1em;
+	margin-right: 2em;
 }
 
-hr {
-	width: 5px;
+hr{
+	border:none;
+	height:3px;
+	background-color: #4d4d4d;
+	width:2em;
+	margin:1em auto;
 }
 
 h1{
 	font-weight: bold;
-	font-size: 25px;
-	padding-top: 30px;
+	font-size: 1.5em;
+	padding-top: 2em;
 }
 
 #slogan {
 	color: #fff;
-	font-size: 40px;
-	padding-top: 10px;
+	font-size: 2em;
+	padding-top: 1em;
 }
 
 .footer{
