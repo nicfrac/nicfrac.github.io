@@ -1,10 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
 body {
   text-align: center;
   color: #4d4d4d;
-  font-family: Helvetica;
+  font-family: 'Lato', sans-serif;
   font-size:16px;
   position: relative;
   line-height:1.5em;
+}
+
+
+h2,
+h3,
+h4{
+	font-family: 'Satisfy', cursive, default;
+	font-weight: normal;
+	color:#4d4d4d;
 }
 
 #topbar {
