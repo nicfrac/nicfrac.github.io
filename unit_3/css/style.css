@@ -8,7 +8,19 @@ body {
 }
 
 #topbar {
-	background-color: #B9FACC;
+	background-color: #fbe8cc;
+	background-size: cover;
+	height:800px;
+	border:2em;
+	border-color:white;
+}
+
+#cookie{
+	width:1200px;
+	height:auto;
+ 	margin:2em auto;
+ 	background-color: orange;
+
 }
 
 a {
