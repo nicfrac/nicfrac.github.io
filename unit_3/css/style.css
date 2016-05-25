@@ -2,17 +2,13 @@ body {
   text-align: center;
   color: #fff;
   font-family: Helvetica;
-  background-size: cover;
-  background-repeat: no-repeat;
   font-size:16px;
 }
 
 #topbar {
 	background-color: #fbe8cc;
 	background-size: cover;
-	height:800px;
-	border:2em;
-	border-color:white;
+	height:12em;
 }
 
 #cookie{
@@ -44,10 +40,6 @@ h1{
 	padding-top: 2em;
 }
 
-#slogan {
-	color: #fff;
-	font-size: 2em;
-	padding-top: 1em;
 }
 
 .footer{
