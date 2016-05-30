@@ -73,10 +73,7 @@ img {
 .one {
     background-color: #E89C6C;
     border: 1px black solid;
-    padding: 20px;
-    max-width: 100%;
- 	height: auto;
-	
+    padding: 20px;	
 }
 
 .two {
