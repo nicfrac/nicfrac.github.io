@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+
+body {
+  text-align: center;
+  color: #4d4d4d;
+  font-size:16px;
+  position: relative;
+  line-height:1.5em;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: ##FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+h1,
+h2,
+h3,
+h4{
+	font-family: 'Satisfy', cursive;
+}
+
+a {
+	color: #4d4d4d;
+	text-decoration: none;
+	font-size: 1em;
+	margin-right: 5em;
+}
+
+
+h1	{
+	font-weight: bold;
+	font-size: 1.5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#wrapper {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+
+.one {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+	
+}
+
+.two {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+	
+}
+
+.three {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+	
+}
+
+.navlinks{
+	font-family: 'Lato', Helvetica, sans-serif;
+}
+
+.sansfont{
+	font-family: 'Lato', Helvetica, sans-serif;
+}
+
+
