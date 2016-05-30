@@ -58,6 +58,11 @@ h1	{
 	padding-bottom: 1em;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 #wrapper {
     background-color: #FFE2B8;
     border: 1px black solid;
