@@ -57,7 +57,7 @@ h1	{
 	padding-bottom: 1em;
 }
 
-#wrapper {
+.wrapper {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
@@ -72,14 +72,14 @@ h1	{
 }
 
 .two {
-    background-color: purple;
+    background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
 	
 }
 
 .three {
-    background-color: #FFC675;
+    background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
 	
