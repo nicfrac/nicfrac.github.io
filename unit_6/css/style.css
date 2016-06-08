@@ -69,7 +69,8 @@ img {
 }*/
 
 footer {
-    padding: 20px;
+    text-align: center;
+    float: right;
     font-family: 'Lato', Helvetica, sans-serif;
     background-color: #ADD6A3;
     margin: 1em;
