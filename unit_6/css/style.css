@@ -10,12 +10,6 @@ body {
   line-height:1.5em;
 }
 
-header {
-    background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
-}
-
 nav {
     text-align: center;
     float: right;
@@ -37,15 +31,11 @@ nav a:hover{
 }
 
 section {
-    background-color: #FFE2B8;
-    border: 1px black solid;
     padding: 20px;
     margin: 1em;
 }
 
 footer {
-	background-color: #FF957E;
-    border: 1px black solid;
     padding: 20px;
     font-family: 'Lato', Helvetica, sans-serif;
 }
@@ -86,43 +76,31 @@ img {
 }
 
 #two_column {
-    background-color: #FFB7CF;
-    border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: #E582A2;
-    border: 1px black solid;
     padding: 20px;
     float: left;
     width: 30%;
 }
 
 #right {
-    background-color: #E55B88;
-    border: 1px black solid;
     padding: 20px;
     float: right;
     width: 58%;
 }
 
 .one {
-    background-color: #E89C6C;
-    border: 1px black solid;
     padding: 20px;	
 }
 
 .two {
-    background-color: #E89C6C;
-    border: 1px black solid;
     padding: 20px;
 	
 }
 
 .three {
-    background-color: #E89C6C;
-    border: 1px black solid;
     padding: 20px;
 	
 }
