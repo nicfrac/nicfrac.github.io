@@ -17,17 +17,15 @@ header {
 }
 
 nav {
-    background-color: #E8C66A;
-    border: 1px black solid;
     text-align: center;
     float: right;
 }
 
 nav a:link{
     font-family: 'Lato', Helvetica, sans-serif;
-    color:#fff;
+    color:##4d4d4d;
     margin:0 32px;
-    padding-bottom:5px;
+    padding-top:30px;
     font-size: .8em;
     text-align: center;
     text-transform: uppercase;
@@ -35,7 +33,7 @@ nav a:link{
 }
 
 nav a:hover{
-    border-bottom: 1px solid #000;
+    color: #000;
 }
 
 section {
