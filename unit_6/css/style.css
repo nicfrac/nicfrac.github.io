@@ -96,13 +96,14 @@ img {
 #left {
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 43%;
 }
 
 #right {
     padding: 20px;
     float: right;
-    width: 58%;
+    width: 43%;
+    border: 1px black solid;
 }
 
 .one {
