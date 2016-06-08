@@ -71,7 +71,7 @@ img {
 footer {
     padding: 20px;
     font-family: 'Lato', Helvetica, sans-serif;
-    background-color: #AAD19C;
+    background-color: #ADD6A3;
     margin: 1em;
 }
 
@@ -89,6 +89,7 @@ footer a:link{
 footer a:hover{
     color: #FFF;
     border-bottom: 3px #4d4d4d solid;
+    padding-bottom: 1em;
 }
 
 #wrapper {
