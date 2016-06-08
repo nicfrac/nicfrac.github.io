@@ -20,6 +20,23 @@ nav {
     background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
+    text-align: center;
+    float: right;
+}
+
+nav a:link {
+    font-family: 'Lato', Helvetica, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0 32px;
+    font-size: 1em;
+    padding-bottom:5px;
+
+}
+
+nav a:hover{
+    color: #000;
 }
 
 section {
