@@ -40,6 +40,20 @@ footer {
     font-family: 'Lato', Helvetica, sans-serif;
 }
 
+footer a:link{
+    font-family: 'Lato', Helvetica, sans-serif;
+    color:##4d4d4d;
+    font-size: 1em;
+    line-height: 90px;
+    margin: 30px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+footer a:hover{
+    color: #FFF;
+}
 
 h1,
 h2,
@@ -59,7 +73,7 @@ a {
 h1	{
 	font-weight: bold;
 	font-size: 1.5em;
-	padding-top: .5em;
+    line-height: 2em;
 	padding-bottom: .5em;
 }
 
