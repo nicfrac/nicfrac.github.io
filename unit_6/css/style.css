@@ -19,7 +19,23 @@ header {
 nav {
     background-color: #E8C66A;
     border: 1px black solid;
-    padding: 20px;
+    text-align: center;
+    float: right;
+}
+
+nav a:link{
+    font-family: 'Lato', Helvetica, sans-serif;
+    color:#fff;
+    margin:0 32px;
+    padding-bottom:5px;
+    font-size: .8em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav a:hover{
+    border-bottom: 1px solid #fff;
 }
 
 section {
@@ -88,10 +104,6 @@ img {
     border: 1px black solid;
     padding: 20px;
 	
-}
-
-.navlinks{
-	font-family: 'Lato', Helvetica, sans-serif;
 }
 
 .sansfont{
