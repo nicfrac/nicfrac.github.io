@@ -97,13 +97,14 @@ img {
     padding: 20px;
     float: left;
     width: 43%;
+    border: 1px #4d4d4d ridge;
 }
 
 #right {
     padding: 20px;
     float: right;
     width: 43%;
-    border: 1px black solid;
+    border: 1px #4d4d4d groove;
 }
 
 .one {
