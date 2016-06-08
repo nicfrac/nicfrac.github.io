@@ -87,9 +87,8 @@ footer a:link{
 }
 
 footer a:hover{
-    color: #FFF;
     border-bottom: 3px #4d4d4d solid;
-    padding-bottom: 1em;
+    padding-bottom: .5em;
 }
 
 #wrapper {
