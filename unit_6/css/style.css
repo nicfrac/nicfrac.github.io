@@ -101,14 +101,22 @@ img {
 .two {
     background-color: #E89C6C;
     border: 1px black solid;
-    padding: 20px;
-	
+    padding: 20px;	
 }
 
 .three {
     background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;	
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
 .navlinks{
