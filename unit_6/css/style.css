@@ -35,12 +35,6 @@ section {
     margin: 1em;
 }
 
-footer {
-    padding: 20px;
-    font-family: 'Lato', Helvetica, sans-serif;
-    background-color: #94b77d;
-}
-
 h1,
 h2,
 h3,
@@ -68,10 +62,17 @@ img {
 	height: auto;
 }
 
-hr{
+/*hr{
     width:100%;
     margin:3em auto;
     border-color: #4d4d4d;
+}*/
+
+footer {
+    padding: 20px;
+    font-family: 'Lato', Helvetica, sans-serif;
+    background-color: #AAD19C;
+    margin: 1em;
 }
 
 footer a:link{
@@ -87,10 +88,12 @@ footer a:link{
 
 footer a:hover{
     color: #FFF;
+    border-bottom: 3px #4d4d4d solid;
 }
 
 #wrapper {
-    background-color: #FFE2B8;
+    background-color: #FFE3D6; /*#FFE2B8;*/
+    /*border: 1px black solid;*/
     padding: 20px;
     margin: 1em;
 }
