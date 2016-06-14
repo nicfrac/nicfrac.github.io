@@ -1,0 +1,147 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+
+body {
+  text-align: center;
+  color: #4d4d4d;
+  font-size:16px;
+  position: relative;
+  line-height:1.5em;
+}
+
+nav {
+    text-align: center;
+    float: right;
+}
+
+nav a:link{
+    font-family: 'Lato', Helvetica, sans-serif;
+    color:##4d4d4d;
+    font-size: 1em;
+    line-height: 90px;
+    margin: 30px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav a:hover{
+    color: #FFF;
+}
+
+section {
+    padding: 20px;
+    margin: 1em;
+}
+
+h1,
+h2,
+h3,
+h4{
+	font-family: 'Satisfy', cursive;
+}
+
+a {
+	color: #4d4d4d;
+	text-decoration: none;
+	font-size: 1em;
+	margin-right: 5em;
+}
+
+
+h1	{
+	font-weight: bold;
+	font-size: 1.5em;
+    line-height: 2em;
+	padding-bottom: .5em;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+/*hr{
+    width:100%;
+    margin:3em auto;
+    border-color: #4d4d4d;
+}*/
+
+footer {
+    padding: 20px;
+    font-family: 'Lato', Helvetica, sans-serif;
+    background-color: #ADD6A3;
+    margin: 1em;
+}
+
+footer a:link{
+    font-family: 'Lato', Helvetica, sans-serif;
+    color:##4d4d4d;
+    font-size: 1em;
+    line-height: 90px;
+    margin: 30px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+footer a:hover{
+    border-bottom: 3px #4d4d4d solid;
+    padding-bottom: .5em;
+}
+
+#wrapper {
+    background-color: #FFEED6;
+    /*border: 1px black solid;*/
+    padding: 20px;
+    margin: 1em;
+}
+
+#two_column {
+    padding: 20px;
+}
+
+#left {
+    padding: 20px;
+    float: left;
+    width: 43%;
+    border: 2px #4d4d4d solid;
+    background-color: #FFFEEE;
+}
+
+#right {
+    padding: 20px;
+    float: right;
+    width: 43%;
+    border: 2px #4d4d4d solid;
+    background-color: #FFFEEE;
+}
+
+.one {
+    padding: 20px;	
+}
+
+.two {
+    padding: 20px;
+	
+}
+
+.three {
+    padding: 20px;
+	
+}
+
+.sansfont{
+	font-family: 'Lato', Helvetica, sans-serif;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
