@@ -81,7 +81,7 @@ label{
     display: none;
     border-bottom: .1em #4d4d4d solid;
     padding-bottom: .5em;
-    border-width: 10px;
+    width: 20%;
 }
 footer {
     padding: 1.5em;
