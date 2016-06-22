@@ -82,7 +82,7 @@ footer a:link{
     color:#4d4d4d;
     font-size: 1em;
     line-height: 6em;
-    margin: .5em .5em;
+    margin: 1.5em 1.5em;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .2em;
@@ -161,7 +161,7 @@ footer a:hover{
   nav a:link{
     padding: .5em;
     text-align: center;
-    margin: 1.5em;
+    margin: 2em;
   }
 
 }
