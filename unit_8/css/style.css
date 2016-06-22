@@ -59,7 +59,7 @@ h1	{
 }
 
 img {
-	max-width: 100%;
+	max-width: 90%;
 	height: auto;
 }
 
@@ -80,22 +80,22 @@ footer a:link{
     font-family: 'Lato', Helvetica, sans-serif;
     color:#4d4d4d;
     font-size: 1em;
-    line-height: 90px;
-    margin: 30px 30px;
+    line-height: 6em;
+    margin: .5em .5em;
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: .2em;
 }
 
 footer a:hover{
-    border-bottom: 3px #4d4d4d solid;
+    border-bottom: .15em #4d4d4d solid;
     padding-bottom: .5em;
 }
 
 #wrapper {
     background-color: #FFEED6;
     /*border: 1px black solid;*/
-    padding: 20px;
+    padding: 1.5em;
     margin: 1em;
     width: 100%;
 }
