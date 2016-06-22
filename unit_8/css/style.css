@@ -120,6 +120,10 @@ footer a:hover{
     height: 0;
 }
 
+#nav-wrap{
+    display: none;
+}
+
 #wrapper {
     background-color: #FFEED6;
     /*border: 1px black solid;*/
@@ -148,4 +152,11 @@ footer a:hover{
     background-color: #FFFEEE;
 }
 
+
+@media screen and (max-width:1248px){
+    .neils{
+        width:48%;
+        height: 651px;
+    }
+}
 
