@@ -73,7 +73,8 @@ label{
     font-family: 'Lato', sans-serif;
     color:#fff;
     padding:0 32px;
-    font-size: 1em;
+    font-size: 2em;
+    font-weight: bold;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -108,13 +109,11 @@ footer a:hover{
 }
 
 .two {
-    padding: 1%;
-    
+    padding: 1%; 
 }
 
 .three {
     padding: 1%;
-    
 }
 
 .sansfont{
@@ -186,16 +185,16 @@ footer a:hover{
 
     nav a:link{
         display: block;
-        padding:15px;
-        margin:5px;
+        padding:.5em;
+        margin:.25em;
     }
 
     h1{
-        margin:40px 0 0;
+        margin:42em 0 0;
     }
 
     header{
-        padding:0 2%;
+        padding:0 1%;
     }
 
     label{
