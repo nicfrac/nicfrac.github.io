@@ -17,7 +17,7 @@ nav {
 
 nav a:link{
     font-family: 'Lato', Helvetica, sans-serif;
-    color:##4d4d4d;
+    color:#4d4d4d;
     font-size: 1em;
     line-height: 90px;
     margin: 30px 30px;
@@ -77,7 +77,7 @@ footer {
 
 footer a:link{
     font-family: 'Lato', Helvetica, sans-serif;
-    color:##4d4d4d;
+    color:#4d4d4d;
     font-size: 1em;
     line-height: 90px;
     margin: 30px 30px;
