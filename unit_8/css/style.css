@@ -168,14 +168,14 @@ footer a:hover{
 
 @media screen and (max-width:735px){
   .clearfix {
-    display: block;
-    text-align: center;
+    float:none;
   }
 
   nav a:link{
     padding: .5em;
     text-align: center;
     margin: 2em;
+    display: block;
   }
 
 }
