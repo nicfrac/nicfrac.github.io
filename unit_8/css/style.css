@@ -156,6 +156,7 @@ footer a:hover{
 @media screen and (max-width:1248px){
   .clearfix {
     float: none;
+    text-align: center;
   }
 }
 
