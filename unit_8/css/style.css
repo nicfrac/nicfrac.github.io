@@ -206,8 +206,15 @@ footer a:hover{
 }
 
 @media screen and (max-width:1077px){
- .clearfix {
+    #right {
     float: none;
-  }
+    width: 100%;
+    }
+
+    #left {
+    float: none;
+    width: 100%;
+    margin-bottom: 1em;
+    }
 
 }
