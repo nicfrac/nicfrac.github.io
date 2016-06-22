@@ -158,5 +158,10 @@ footer a:hover{
     float: none;
     text-align: center;
   }
+
+  nav a:link{
+    padding: .125em;
+  }
+
 }
 
