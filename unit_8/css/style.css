@@ -22,7 +22,7 @@ nav a:link{
     font-size: 1em;
     line-height: 6em;
     margin: 2em 2em;
-    text-align: center;
+    /*text-align: center*/
     text-transform: uppercase;
     letter-spacing: .15em;
 }
@@ -59,7 +59,7 @@ h1	{
 }
 
 img {
-	max-width: 90%;
+	max-width: 100%;
 	height: auto;
 }
 
