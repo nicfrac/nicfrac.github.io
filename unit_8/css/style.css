@@ -73,12 +73,14 @@ label{
     font-family: 'Lato', sans-serif;
     color:#4d4d4d;
     padding:0 32px;
-    font-size: 1em;
+    font-size: 1.5em;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
     display: none;
+    border-bottom: .15em #4d4d4d solid;
+    padding-bottom: .5em;
 }
 footer {
     padding: 1.5em;
@@ -187,7 +189,7 @@ footer a:hover{
         display: block;
         padding:.5em;
         margin:.25em;
-        line-height: 0em;
+        line-height: 1em;
     }
 
     label{
