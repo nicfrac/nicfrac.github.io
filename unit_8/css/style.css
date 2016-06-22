@@ -79,7 +79,7 @@ label{
     text-transform: uppercase;
     letter-spacing: .125px;
     display: none;
-    border-bottom: .1em #4d4d4d solid;
+    /*border-bottom: .1em #4d4d4d solid;*/
     padding-bottom: .5em;
     width: 30%;
     margin: 0 30%;
