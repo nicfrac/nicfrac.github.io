@@ -74,6 +74,7 @@ footer {
     font-family: 'Lato', Helvetica, sans-serif;
     background-color: #ADD6A3;
     margin: 1em;
+    width: 90%;
 }
 
 footer a:link{
@@ -90,6 +91,33 @@ footer a:link{
 footer a:hover{
     border-bottom: .15em #4d4d4d solid;
     padding-bottom: .5em;
+}
+
+.one {
+    padding: 1%;    
+}
+
+.two {
+    padding: 1%;
+    
+}
+
+.three {
+    padding: 1%;
+    
+}
+
+.sansfont{
+    font-family: 'Lato', Helvetica, sans-serif;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
 #wrapper {
@@ -120,30 +148,4 @@ footer a:hover{
     background-color: #FFFEEE;
 }
 
-.one {
-    padding: 1%;	
-}
-
-.two {
-    padding: 1%;
-	
-}
-
-.three {
-    padding: 1%;
-	
-}
-
-.sansfont{
-	font-family: 'Lato', Helvetica, sans-serif;
-}
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
 
