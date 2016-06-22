@@ -79,8 +79,9 @@ label{
     text-transform: uppercase;
     letter-spacing: 2px;
     display: none;
-    border-bottom: .15em #4d4d4d solid;
+    border-bottom: .1em #4d4d4d solid;
     padding-bottom: .5em;
+    border-width: 20%;
 }
 footer {
     padding: 1.5em;
