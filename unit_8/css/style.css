@@ -22,8 +22,7 @@ nav a:link{
     font-size: 1em;
     line-height: 6em;
     margin: 2em 2em;
-    padding-right: .15em;
-    /*text-align: center*/
+    text-align: left;
     text-transform: uppercase;
     letter-spacing: .15em;
 }
