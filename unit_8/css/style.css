@@ -204,3 +204,15 @@ footer a:hover{
     }
 
 }
+
+@media screen and (max-width:1077px){
+    #left{
+        display: block;
+        float: none;
+    }
+    #right{
+        display: none;
+        float: none;
+    }
+
+}
