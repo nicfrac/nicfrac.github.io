@@ -69,6 +69,16 @@ img {
     border-color: #4d4d4d;
 }*/
 
+label{
+    font-family: 'Lato', sans-serif;
+    color:#fff;
+    padding:0 32px;
+    font-size: 1em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    display: none;
+}
 footer {
     padding: 1.5em;
     font-family: 'Lato', Helvetica, sans-serif;
@@ -152,6 +162,9 @@ footer a:hover{
     background-color: #FFFEEE;
 }
 
+#toggle{
+    display: none;
+}
 
 @media screen and (max-width:1248px){
   .clearfix {
