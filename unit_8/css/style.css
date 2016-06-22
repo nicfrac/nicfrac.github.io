@@ -154,9 +154,8 @@ footer a:hover{
 
 
 @media screen and (max-width:1248px){
-    .neils{
-        width:48%;
-        height: 651px;
-    }
+  .clearfix {
+    float: none;
+  }
 }
 
