@@ -227,3 +227,24 @@ footer a:hover{
     }
 
 }
+
+@media screen and (max-width:490px){
+    h1  {
+    font-weight: bold;
+    font-size: .65em;
+    line-height: 2em;
+    padding-bottom: .5em;
+}
+
+    h3  {
+    font-weight: bold;
+    font-size: .5em;
+}
+
+    .sansfont{
+    font-family: 'Lato', Helvetica, sans-serif;
+    font-size: .5em;
+}
+
+}
+
