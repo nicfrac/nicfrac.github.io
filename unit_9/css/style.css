@@ -253,14 +253,3 @@ footer a:hover{
 }
 
 }
-
-@media screen and (min-width:1602px){
-
-#wrapper {
-    background-color: #FFEED6;
-    /*border: 1px black solid;*/
-    padding: .5em;
-    width: 78em;
-    /*margin: 1em;*/
-}
-}
