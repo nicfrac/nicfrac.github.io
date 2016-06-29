@@ -195,13 +195,6 @@ footer a:hover{
 }
 
 
-@media screen and (min-width:1634px){
-
-
-
-}
-
-
 @media screen and (max-width:735px){
     nav{
         display: none;
@@ -268,7 +261,7 @@ footer a:hover{
 
 }
 
-@media screen and (min-width:1230px){
+@media screen and (max-width:1230px){
 #wrapper {
     width: 80%;
 }
