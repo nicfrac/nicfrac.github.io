@@ -111,9 +111,6 @@ footer a:hover{
     float: left;
 }
 
-.one {
-    padding: 1%;    
-}
 
 .two {
     padding: 1%; 
@@ -145,6 +142,10 @@ footer a:hover{
     /*border: 1px black solid;*/
     padding: .5em;
     /*margin: 1em;*/
+}
+
+#one {
+    padding: 1%;    
 }
 
 #two_column {
@@ -187,6 +188,14 @@ footer a:hover{
 }
 
 }
+
+
+@media screen and (min-width:1634px){
+
+
+
+}
+
 
 @media screen and (max-width:735px){
     nav{
