@@ -88,8 +88,7 @@ footer {
     padding: .5em;
     font-family: 'Lato', Helvetica, sans-serif;
     background-color: #ADD6A3;
-    margin: 1em;
-    width: 90%;
+    margin: 1em 0em;
 }
 
 footer a:link{
