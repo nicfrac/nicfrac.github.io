@@ -61,7 +61,6 @@ img {
 	max-width: 100%;
 	height: auto;
     padding-right: .5em;
-    display: block;
 }
 
 /*hr{
@@ -146,7 +145,6 @@ footer a:hover{
     /*border: 1px black solid;*/
     padding: .5em;
     /*margin: 1em;*/
-    width: 90%;
 }
 
 #two_column {
