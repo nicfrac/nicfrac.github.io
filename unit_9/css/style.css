@@ -269,7 +269,8 @@ footer a:hover{
 #wrapper {
     background-color: #FFEED6;
     /*border: 1px black solid;*/
-    padding: .5em 5em;
+    padding: .5em;
+    width: 90%;
     /*margin: 1em;*/
 }
 }
