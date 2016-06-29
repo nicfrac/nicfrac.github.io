@@ -267,3 +267,10 @@ footer a:hover{
 }
 
 }
+
+@media screen and (min-width:1600px){
+#wrapper {
+    width: 80%;
+}
+
+}
