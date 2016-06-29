@@ -109,6 +109,9 @@ footer a:hover{
 
 .custom-style {
     float: left;
+    max-width: 100%;
+    height: auto;s
+    padding: .5em;
 }
 
 
