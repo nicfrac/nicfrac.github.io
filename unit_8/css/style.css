@@ -108,6 +108,10 @@ footer a:hover{
     padding-bottom: .5em;
 }
 
+.custom-style {
+    float: left;
+}
+
 .one {
     padding: 1%;    
 }
