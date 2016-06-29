@@ -60,7 +60,7 @@ h1	{
 img {
 	max-width: 100%;
 	height: auto;
-    padding-right: .5em;
+    padding: .5em;
 }
 
 /*hr{
@@ -254,3 +254,22 @@ footer a:hover{
 
 }
 
+@media screen and (min-width:1602px){
+    #right {
+    float: none;
+    width: 100%;
+    }
+
+    #left {
+    float: none;
+    width: 100%;
+    margin-bottom: 1em;
+    }
+
+#wrapper {
+    background-color: #FFEED6;
+    /*border: 1px black solid;*/
+    padding: .5em 5em;
+    /*margin: 1em;*/
+}
+}
